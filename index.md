@@ -8,6 +8,7 @@ Below are the screenshots to projects that I have worked on
 
 ### Scavenger Run (Adventure Game)
 ![Scavenger Run Screenshot](/Pictures/Scavenger-Run-Screenshot.JPG)
+Scavenger Run is a game where you play as Adam Roosevelt. You must escape with the treasure from the 5 guardians by strategically using the items you have or else they will catch you and kill you. 
 
 ### Jekyll Themes
 
