@@ -6,12 +6,12 @@ This is my Portfolio, it contains some of the projects that I've either made mys
 
 Below are the screenshots to projects that I have worked on
 
-### Scavenger Run (Adventure Game)
+## Scavenger Run (Adventure Game)
 ![Scavenger Run Screenshot](/Pictures/Scavenger-Run-Screenshot.JPG)
 
 Scavenger Run is a text-based rpg game where you play as Adam Roosevelt. You must escape with the treasure from the 5 guardians by strategically using the items you have or else they will catch you and kill you. 
 
-### Study Application
+## Study Application
 ![Study App Screenshot](/Pictures/Study-App-Screenshot.JPG)
 
 The Study Application project is meant to be a little bit of a study guide. It gives you definitions, asks you to study them, then waits until you are ready to begin the quiz. At the end, it will tell you how many answers you got correct and how many you got wrong.
