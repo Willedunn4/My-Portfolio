@@ -14,6 +14,8 @@ Scavenger Run is a text-based rpg game where you play as Adam Roosevelt. You mus
 ### Study Application
 ![Study App Screenshot](/Pictures/Study-App-Screenshot.JPG)
 
+The Study Application project is meant to be a little bit of a study guide. It gives you definitions, asks you to study them, then waits until you are ready to begin the quiz. At the end, it will tell you how many answers you got correct and how many you got wrong.
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
