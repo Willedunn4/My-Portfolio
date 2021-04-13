@@ -9,11 +9,10 @@ Below are the screenshots to projects that I have worked on
 ### Scavenger Run (Adventure Game)
 ![Scavenger Run Screenshot](/Pictures/Scavenger-Run-Screenshot.JPG)
 
-Scavenger Run is a game where you play as Adam Roosevelt. You must escape with the treasure from the 5 guardians by strategically using the items you have or else they will catch you and kill you. 
+Scavenger Run is a text-based rpg game where you play as Adam Roosevelt. You must escape with the treasure from the 5 guardians by strategically using the items you have or else they will catch you and kill you. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Willedunn4/My-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Study Application
+![Study App Screenshot](/Pictures/Study-App-Screenshot.JPG)
 
 ### Support or Contact
 
