@@ -4,9 +4,10 @@ This is my Portfolio, it contains some of the projects that I've either made mys
 
 ## Projects
 
-Below are the screenshots and links to projects that I have worked on
+Below are the screenshots to projects that I have worked on
 
 ### Scavenger Run (Adventure Game)
+![Scavenger Run Screenshot](/images/Scavenger Run Screenshot.JPG)
 
 ### Jekyll Themes
 
