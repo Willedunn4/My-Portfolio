@@ -26,7 +26,6 @@ The ToEarlyCantThink Project, is a program where the user, after imputing their 
 
 The Underwater Creatures Project, is one of the more complicated types of code. You get to feed 4 different types of sea animals where you can listen to them and understand what they need in order to survive. 
 
-### Adopt-An-Insect
 
 
 
