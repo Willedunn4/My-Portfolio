@@ -2,9 +2,9 @@
 
 This is my Portfolio, it contains some of the projects that I've either made myself or at least helped out with
 
-### Markdown
+# Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are the screenshots and links to projects that I have worked on
 
 ```markdown
 Syntax highlighted code block
