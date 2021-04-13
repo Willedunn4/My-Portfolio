@@ -27,6 +27,6 @@ The ToEarlyCantThink Project, is a program where the user, after imputing their 
 The Underwater Creatures Project, is one of the more complicated types of code. You get to feed 4 different types of sea animals where you can listen to them and understand what they need in order to survive. 
 
 ## Shift Cypher
-![Shift Cypher Screenshot(/Pictures/Shift-Cypher-Screenshot.JPG)
+![Shift Cypher Screenshot](/Pictures/Shift-Cypher-Screenshot.JPG)
 
 The Shift Cyper project is a bunch of code designed to either encode or decode any sentence into a bunch of letters/numbers. 
