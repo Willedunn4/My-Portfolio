@@ -30,3 +30,8 @@ The Underwater Creatures Project, is one of the more complicated types of code. 
 ![Shift Cypher Screenshot](/Pictures/Shift-Cypher-Screenshot.JPG)
 
 The Shift Cyper project is a bunch of code designed to either encode or decode any sentence into a bunch of letters/numbers. 
+
+## Trivia Game
+![Trivia Game Screenshot](/Pictures/Trivia-Game-2.0-Screenshot.JPG)
+
+The Trivia Game project is meant to be a smaller version of the study application, performing the same tasks as it. Although, it does not tell you to study, it expects you to know what the answers to the questions are and at the end it will tell you how many you got correct and how many you got wrong. 
